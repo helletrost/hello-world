@@ -1,2 +1,2 @@
 # hello-world
-ny på github, skal genopsage programmeringshåndværket
+ny på github, skal genopdage programmeringshåndværket
